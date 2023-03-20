@@ -4,7 +4,7 @@
          alt="Waving hand animated gif"
          height="45"
          width="45" />
-  Eu sou <a href="" target="_blank">Samuel Martins!</a>
+  Eu sou <a href="https://www.linkedin.com/in/samuelmartinsdev/" target="_blank">Samuel Martins!</a>
 </h1>
 <h3 align="center">
 Atualmente estudo desenvolvimento Front-end. No entanto, também estou buscando expandir meus estudos para outras áreas, como o Back-end. <img src="./img/cat-coder.gif" width="40" height="28">
