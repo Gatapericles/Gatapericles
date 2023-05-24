@@ -12,8 +12,8 @@ Atualmente estudo desenvolvimento Front-end. No entanto, também estou buscando 
 
 
 <p align="left">
-<img height="180em" src="https://github-readme-stats.vercel.app/api?username=Gatapericles&include_all_commits=true&count_private=true&show_icons=true&theme=dark&" alt="Samuel Martins"/>
-<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Gatapericles&include_all_commits=true&count_private=true&show_icons=true&hide_border=false&layout=compact&langs_count=8&theme=dark&" alt="Samuel Martins"/>
+<img height="180em" src="https://github-readme-stats-sigma-five.vercel.app/api?username=Gatapericles&include_all_commits=true&count_private=true&show_icons=true&theme=dark&" alt="Samuel Martins"/>
+<img height="180em" src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=Gatapericles&include_all_commits=true&count_private=true&show_icons=true&hide_border=false&layout=compact&langs_count=8&theme=dark&" alt="Samuel Martins"/>
 </p>
 
 ### 🧰 Devtools
